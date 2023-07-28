@@ -68,6 +68,7 @@ if ($resultat-> rowCount() == 1) {
     $content .= "<div class='alert alert-succes'>Inscription validé ! </div>";
 
     }
+    htryetgrjykule(ynrt ujyutrerfyh)
 
 }
 
